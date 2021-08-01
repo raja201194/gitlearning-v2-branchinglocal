@@ -3,5 +3,9 @@
 <b>Added about Rajasekhar second time</b>
 <b>Added for pushing to remote github </b>
 <p>added for working on feature branch</p>
+<<<<<<< HEAD
+<p> added for master -merge issue creation</p>
+=======
 <p> added for p4 merge -feature-aug-release</p>
+>>>>>>> feature-aug-release
 </html>
